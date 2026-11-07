@@ -3,7 +3,7 @@
 
 A responsive, single-page personal portfolio built with plain **HTML, CSS and JavaScript**. It was created as **Task 3** of my Front-End Development internship at **CodeAlpha**.
 
-🔗 **Live site:** https://bilalahmad989.github.io/portfolio/
+🔗 **Live site:** https://bilalahmad989.github.io/CodeAlpha_My-Portfolio-Website/
 
 ## About the project
 
